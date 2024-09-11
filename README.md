@@ -2,7 +2,7 @@
 <h3 align="center">Turning Challenges into Code with a Creative Touch</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jptdilanka&label=Profile%20views&color=0e75b6&style=flat" alt="jptdilanka" /> </p>
-
+---
 - 📚 I’m an Undergraduate at **NSBM**
 
 - 💬 Ask me about **Web development**
