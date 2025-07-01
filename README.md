@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanuji Dilanka</h1>
-<h3 align="center">Turning Challenges into Code with a Creative Touch</h3>
+<h3 align="center">Think creatively to find causes of defects and suggest possible fixes.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jptdilanka&label=Profile%20views&color=0e75b6&style=flat" alt="jptdilanka" /> </p>
 
