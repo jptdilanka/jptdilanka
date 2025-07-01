@@ -7,7 +7,7 @@
 
 - 📚 I’m an Undergraduate at **NSBM**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **QA Engineering**
 
 - 📫 How to reach me **thanuji.dilanka2000@gmail.com**
 
